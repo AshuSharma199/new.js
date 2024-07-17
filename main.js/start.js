@@ -10,8 +10,14 @@
 // console.table([name,table]);
 
 
-"use strict";
- let six = console.log(2+4);
- console.log( typeof undefined);
+// "use strict";
+//  let six = console.log(2+4);
+//  console.log( typeof undefined);
+
+let boleanIn=ashu;
+ console.log(boleanIn);
+let boleanIsLoggedIn = Boolean (boleanIn);
+console.log(boleanIsLoggedIn);
+
 
 
